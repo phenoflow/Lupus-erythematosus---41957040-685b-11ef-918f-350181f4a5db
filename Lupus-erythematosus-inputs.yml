@@ -1,0 +1,99 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/lupus---secondary.py
+inputModule3:
+  class: File
+  path: python/systemic-lupus-erythematosus---secondary.py
+inputModule4:
+  class: File
+  path: python/lupus-erythematosus-multisystem---secondary.py
+inputModule5:
+  class: File
+  path: python/discoid-lupus-erythematosus---secondary.py
+inputModule6:
+  class: File
+  path: python/local-lupus-erythematosus---secondary.py
+inputModule7:
+  class: File
+  path: python/lupus-erythematosus-forms---secondary.py
+inputModule8:
+  class: File
+  path: python/lupus-erythematosus-unspecified---secondary.py
+inputModule9:
+  class: File
+  path: python/glomerular-lupus-erythematosus---secondary.py
+inputModule10:
+  class: File
+  path: python/lupus-erythematosus-involvement---secondary.py
+inputModule11:
+  class: File
+  path: python/lupus-erythematosus-pericarditis---secondary.py
+inputModule12:
+  class: File
+  path: python/lupus-erythematosus-gingival---secondary.py
+inputModule13:
+  class: File
+  path: python/nephrotic-lupus-erythematosus---secondary.py
+inputModule14:
+  class: File
+  path: python/lupus-erythematosus-nephrosis---secondary.py
+inputModule15:
+  class: File
+  path: python/lupus-erythematosus-class---secondary.py
+inputModule16:
+  class: File
+  path: python/lupus-erythematosus-hepatitis---secondary.py
+inputModule17:
+  class: File
+  path: python/lupus-erythematosus-endocardiosis---secondary.py
+inputModule18:
+  class: File
+  path: python/lupus-erythematosus-glomerulonephritis---secondary.py
+inputModule19:
+  class: File
+  path: python/acute-lupus-erythematosus---secondary.py
+inputModule20:
+  class: File
+  path: python/lupus-erythematosus-fulminating---secondary.py
+inputModule21:
+  class: File
+  path: python/other-lupus-erythematosus---secondary.py
+inputModule22:
+  class: File
+  path: python/lupus-erythematosus-childhood---secondary.py
+inputModule23:
+  class: File
+  path: python/lupus-erythematosus-arthritis---secondary.py
+inputModule24:
+  class: File
+  path: python/neonatal-lupus-erythematosus---secondary.py
+inputModule25:
+  class: File
+  path: python/lupus-erythematosus-encephalitis---secondary.py
+inputModule26:
+  class: File
+  path: python/limited-lupus-erythematosus---secondary.py
+inputModule27:
+  class: File
+  path: python/lupus-erythematosus-panniculitis---secondary.py
+inputModule28:
+  class: File
+  path: python/bullous-lupus-erythematosus---secondary.py
+inputModule29:
+  class: File
+  path: python/lupus-erythematosus-remission---secondary.py
+inputModule30:
+  class: File
+  path: python/lupus-erythematosus-membrane---secondary.py
+inputModule31:
+  class: File
+  path: python/nephropathy-lupus-erythematosus---secondary.py
+inputModule32:
+  class: File
+  path: python/output-cases.py
